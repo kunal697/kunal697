@@ -4,8 +4,7 @@
 
  
 
-- I have Created a Pune Metro System for - booking,enquiry,timetable and station list : [Pune Metro](https://github.com/kunal697/metrobooking)
-
+ 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 💬 Ask me about **C and C++**
