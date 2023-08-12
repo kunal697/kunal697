@@ -1,7 +1,10 @@
  <h1 align="center">Hi 👋, I'm Kunal Bodke</h1>
 <h3 align="center">I have good problem solving skill and love to solve DSA problem</h3>
+![GitHub Views](https://komarev.com/ghpvc/?username=kunal697&color=0e75b6)
 
-- I have Created a Pune Metro System for booking,enquiry,timetable and station list. [Pune Metro](https://github.com/kunal697/metrobooking)
+
+- I have Created a Pune Metro System for - booking,enquiry,timetable and station list.
+                    -  [Pune Metro](https://github.com/kunal697/metrobooking)
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
@@ -17,16 +20,7 @@
 | GitHub Peek - View and Follow | [Code](https://github.com/kunal697/metrobooking) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=githubpeekbyamit.example.githubpeek) | Sep 22 - Jan 23 |
  
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
- <p align="left">
-<a href="https://linkedin.com/in/kunal-bodke-b29663252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-bodke-b29663252" height="30" width="40" /></a>
-<a href="https://instagram.com/kunal_bodke_697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_bodke_697" height="30" width="40" /></a>
-<a href="https://medium.com/@kunal697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kunal697" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ashketchup538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashketchup538" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kunal697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunal697" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kunal697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kunal697" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kunal_697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunal_697" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kunal697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunal697" height="30" width="40" /></a>
-</p>
+ 
 
 | Linkedin | Geeksforgeeks | Leetcode | Instagram  | Codechef | Hackerrank| Codeforce| 
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
