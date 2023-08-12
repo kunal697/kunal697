@@ -2,9 +2,6 @@
 <h3 align="center">I have good problem solving skill and love to solve DSA problem</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal697&label=Profile%20views&color=0e75b6&style=flat" alt="kunal697" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal697" alt="kunal697" /></a> </p>
  
 
 - I have Created a Pune Metro System for - booking,enquiry,timetable and station list : [Pune Metro](https://github.com/kunal697/metrobooking)
