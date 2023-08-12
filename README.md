@@ -12,13 +12,12 @@
 
 <h2>⚙️ Projects  </h2>
 
-| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | 
+| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|
-| Pune Metro -booking,timetable | [Code](https://github.com/kunal697/metrobooking/blob/main/sourcecod) |  C++ | 
+| GitHub Peek - View and Follow | [Code](https://github.com/kunal697/metrobooking) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=githubpeekbyamit.example.githubpeek) | Sep 22 - Jan 23 |
  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">⭐ Connect with me on social media 📲 </h3>
+ <p align="left">
 <a href="https://linkedin.com/in/kunal-bodke-b29663252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-bodke-b29663252" height="30" width="40" /></a>
 <a href="https://instagram.com/kunal_bodke_697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_bodke_697" height="30" width="40" /></a>
 <a href="https://medium.com/@kunal697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kunal697" height="30" width="40" /></a>
