@@ -1,10 +1,13 @@
  <h1 align="center">Hi 👋, I'm Kunal Bodke</h1>
 <h3 align="center">I have good problem solving skill and love to solve DSA problem</h3>
-![GitHub Views](https://komarev.com/ghpvc/?username=kunal697&color=0e75b6)
 
 
-- I have Created a Pune Metro System for - booking,enquiry,timetable and station list.
-                    -  [Pune Metro](https://github.com/kunal697/metrobooking)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal697&label=Profile%20views&color=0e75b6&style=flat" alt="kunal697" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal697" alt="kunal697" /></a> </p>
+ 
+
+- I have Created a Pune Metro System for - booking,enquiry,timetable and station list : [Pune Metro](https://github.com/kunal697/metrobooking)
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
@@ -15,9 +18,9 @@
 
 <h2>⚙️ Projects  </h2>
 
-| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
-|-----------|-----------|-----------|-----------|-----------|
-| GitHub Peek - View and Follow | [Code](https://github.com/kunal697/metrobooking) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=githubpeekbyamit.example.githubpeek) | Sep 22 - Jan 23 |
+| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | Timeline|
+|-----------|-----------|-----------|---------|
+| Pune Metro System| [Code](https://github.com/kunal697/metrobooking) | ```C++``` | July 2023 |
  
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
  
