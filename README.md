@@ -8,7 +8,7 @@
 - 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **kunalbodke25@gmail.com**
-- <br>
+
 
 <h2>⚙️ Projects  </h2>
 
@@ -16,9 +16,6 @@
 |-----------|-----------|-----------|-----------|-----------|
 | Pune Metro -booking,timetable | [Code](https://github.com/kunal697/metrobooking/blob/main/sourcecod) |  C++ | 
  
- 
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
