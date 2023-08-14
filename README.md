@@ -3,8 +3,7 @@
 
 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal697&label=Profile%20views&color=0e75b6&style=flat" alt="kunal697" /> </p>
- 
+  
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 💬 Ask me about **C and C++**
