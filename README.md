@@ -5,7 +5,9 @@
  
   
 - 🌱 I’m currently learning **Data Structure & Algorithm**
-
+- ⭐ Leetcode
+- ⭐ Codechef
+- 3⭐ Hackerrank
 - 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **kunalbodke25@gmail.com**
