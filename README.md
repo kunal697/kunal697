@@ -36,5 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal697&" alt="kunal697" /></p>
 
-[![An image of @kunal697's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunal697)](https://holopin.io/@kunal697)
+ [![An image of @kunal697's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunal697)](https://holopin.io/@kunal697)
 
