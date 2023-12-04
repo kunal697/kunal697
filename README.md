@@ -18,6 +18,7 @@
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | Timeline|
 |-----------|-----------|-----------|---------|
 | Pune Metro System| [Code](https://github.com/kunal697/metrobooking) | ```C++``` | July 2023 |
+|  Specturm Classes Homepage |  [Live](https://specturmclasses.netlify.app/) | ```HTML & TailwindCSS``` | Nov 2023|
  
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
  
