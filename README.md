@@ -2,8 +2,8 @@
 <h3 align="center">I have good problem solving skill and love to solve DSA problem</h3>
 
 
- 
-  
+ [here](https://github.com/kunal697/FDS-Lab/blob/main/answer.md)
+ [other](https://github.com/kunal697/FDS-Lab/blob/main/others.md)
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 - ⭐ Leetcode
 - ⭐ Codechef
