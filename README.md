@@ -38,7 +38,6 @@ Building **fun, practical apps and tools** for both the **web and terminal**, wh
     <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" /></a>
     <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="30" height="30" alt="AWS" /></a>
     <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="30" height="30" alt="GCP" /></a>
-    <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="30" height="30" alt="VS Code" /></a>
     <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="30" height="30" alt="Linux" /></a>
 </p>
 
