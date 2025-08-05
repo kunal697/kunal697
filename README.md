@@ -1,4 +1,6 @@
-![obsession beats talent](./header.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kunal697/kunal697/main/header.png" alt="obsession beats talent" />
+</div>
 > *“Building bridges between code and the real world.”*
 
 
