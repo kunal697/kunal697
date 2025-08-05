@@ -1,4 +1,4 @@
-
+![obsession beats talent](./header.png)
 > *“Building bridges between code and the real world.”*
 
 
